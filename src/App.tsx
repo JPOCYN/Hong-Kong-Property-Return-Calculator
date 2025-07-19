@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Moon, Sun, Languages, Download, Share2 } from 'lucide-react'
+import { Moon, Sun } from 'lucide-react'
 import PropertyCalculator from './components/PropertyCalculator'
 import { LanguageProvider } from './contexts/LanguageContext'
 
